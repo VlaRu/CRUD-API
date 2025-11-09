@@ -22,15 +22,16 @@ cd CRUD-API
 ```bash
 npm i
 ```
+4. Create .env file on the root directory with data: PORT=4000
 
 ## Running app
 in development mode
 ```bash
-npm run:dev
+npm run start:dev
 ```
 in production mode
 ```bash
-npm run:prod
+npm run start:prod
 ```
 
 ## Endpoints
